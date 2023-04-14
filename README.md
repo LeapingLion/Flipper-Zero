@@ -11,5 +11,5 @@ This was a research project to learn about the capability of Flipper Zero and pr
 (c) Near Field Communication (NFC)
 (d) Wifi
 (e) Infrared
-(f) Blutooth
+(f) Bluetooth
 (g) iButton
